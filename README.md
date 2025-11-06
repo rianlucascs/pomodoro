@@ -5,6 +5,7 @@
 * Python
 * SQLite
 * OOP (Programação Orientada a Objetos)
+* Streamlit
 
 ## Funções Interativas
 
@@ -28,5 +29,6 @@
 <img width="1899" height="522" alt="Screenshot_3" src="https://github.com/user-attachments/assets/d1d5687f-a165-4267-ac5d-0cbc0270525c" />
 <img width="1898" height="554" alt="Screenshot_4" src="https://github.com/user-attachments/assets/ae86fa9f-fadf-49a2-9ce8-481000c25e7c" />
 <img width="1902" height="175" alt="Screenshot_5" src="https://github.com/user-attachments/assets/48dfe82b-fc3b-4a9a-9f26-005006a5a2ea" />
+
 
 
